@@ -13,6 +13,7 @@ W sekcji pipeline, wpisujemy poniższy skrypt.
 Skrypt:
 
 ![4](https://user-images.githubusercontent.com/61689132/149335647-49c0f3b0-a7a2-45a8-832e-05bca7d780ed.png)
+
 Sekcja:
 
 ![5](https://user-images.githubusercontent.com/61689132/149335685-506f6a6e-73f0-411a-bc47-f47de898d2fe.png)
