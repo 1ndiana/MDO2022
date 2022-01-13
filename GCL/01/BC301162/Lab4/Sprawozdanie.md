@@ -11,8 +11,10 @@ W moim skrypcie, skorzystałem z plików Dockerfile i Dockerfile-test, które wy
 W sekcji pipeline, wpisujemy poniższy skrypt.
 
 Skrypt:
+
 ![4](https://user-images.githubusercontent.com/61689132/149335647-49c0f3b0-a7a2-45a8-832e-05bca7d780ed.png)
 Sekcja:
+
 ![5](https://user-images.githubusercontent.com/61689132/149335685-506f6a6e-73f0-411a-bc47-f47de898d2fe.png)
 
 Po wpisaniu uzupełnieniu pól, wciskamy przycisk Save i przechodzimy do projektu.
@@ -35,5 +37,7 @@ Console output
 Poprawne wykonanie skryptu, pokaże nam komunikat który zamiesciłem poniżej.
 
 ![9 1](https://user-images.githubusercontent.com/61689132/149335776-a748f78d-4bcc-4a79-90ec-5816de07dbaa.png)
+
 ![9 2](https://user-images.githubusercontent.com/61689132/149335792-37d3599e-5d93-4feb-b27d-9e018b99d535.png)
+
 ![9 3](https://user-images.githubusercontent.com/61689132/149335799-05507f45-0dd6-4617-8a32-d689a0f2443c.png)
