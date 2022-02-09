@@ -1,5 +1,6 @@
 1.Sprawdzono wersje gita na komputerze 
  
+![1)Obraz1](https://github.com/1ndiana/MDO2022/blob/BS292981/GCL/03/BS292981/Lab1/IMG_finall/Obraz1.png)
 
 2.Sklonowano repozytorium za pocą HTTPS 
 
